@@ -1,0 +1,415 @@
+================================================================================
+DALLOL BINGO AUDIO FILES COLLECTION
+================================================================================
+
+Source URL: https://dallolbingohouse.com/static/game/audio/
+Download Date: 2026-01-11 22:06:35
+Total Files: 79
+
+================================================================================
+DOWNLOADED FILES
+================================================================================
+
+   1. bingo_ball.mp3
+     Original: bingo_ball.mp3
+     Size: 659.5 KB (0.64 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/bingo_ball.mp3
+     ------------------------------------------------------------
+   2. bonus.mp3
+     Original: bonus.mp3
+     Size: 68.4 KB (0.07 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/bonus.mp3
+     ------------------------------------------------------------
+   3. shuffle.mp3
+     Original: shuffle.mp3
+     Size: 787.9 KB (0.77 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/shuffle.mp3
+     ------------------------------------------------------------
+   4. start.mp3
+     Original: start.mp3
+     Size: 39.7 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/start.mp3
+     ------------------------------------------------------------
+   5. stop.mp3
+     Original: stop.mp3
+     Size: 42.6 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/stop.mp3
+     ------------------------------------------------------------
+   6. Voice 1.mp3
+     Original: Voice 1.mp3
+     Size: 18.7 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%201.mp3
+     ------------------------------------------------------------
+   7. Voice 10.mp3
+     Original: Voice 10.mp3
+     Size: 18.3 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2010.mp3
+     ------------------------------------------------------------
+   8. Voice 11.mp3
+     Original: Voice 11.mp3
+     Size: 16.1 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2011.mp3
+     ------------------------------------------------------------
+   9. Voice 12.mp3
+     Original: Voice 12.mp3
+     Size: 18.7 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2012.mp3
+     ------------------------------------------------------------
+  10. Voice 13.mp3
+     Original: Voice 13.mp3
+     Size: 17.1 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2013.mp3
+     ------------------------------------------------------------
+  11. Voice 14.mp3
+     Original: Voice 14.mp3
+     Size: 18.1 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2014.mp3
+     ------------------------------------------------------------
+  12. Voice 15.mp3
+     Original: Voice 15.mp3
+     Size: 18.5 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2015.mp3
+     ------------------------------------------------------------
+  13. Voice 16.mp3
+     Original: Voice 16.mp3
+     Size: 19.1 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2016.mp3
+     ------------------------------------------------------------
+  14. Voice 17.mp3
+     Original: Voice 17.mp3
+     Size: 41.3 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2017.mp3
+     ------------------------------------------------------------
+  15. Voice 18.mp3
+     Original: Voice 18.mp3
+     Size: 40.1 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2018.mp3
+     ------------------------------------------------------------
+  16. Voice 19.mp3
+     Original: Voice 19.mp3
+     Size: 18.5 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2019.mp3
+     ------------------------------------------------------------
+  17. Voice 2.mp3
+     Original: Voice 2.mp3
+     Size: 46.8 KB (0.05 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%202.mp3
+     ------------------------------------------------------------
+  18. Voice 20.mp3
+     Original: Voice 20.mp3
+     Size: 18.7 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2020.mp3
+     ------------------------------------------------------------
+  19. Voice 21.mp3
+     Original: Voice 21.mp3
+     Size: 40.9 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2021.mp3
+     ------------------------------------------------------------
+  20. Voice 22.mp3
+     Original: Voice 22.mp3
+     Size: 18.3 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2022.mp3
+     ------------------------------------------------------------
+  21. Voice 23.mp3
+     Original: Voice 23.mp3
+     Size: 35.1 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2023.mp3
+     ------------------------------------------------------------
+  22. Voice 24.mp3
+     Original: Voice 24.mp3
+     Size: 18.5 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2024.mp3
+     ------------------------------------------------------------
+  23. Voice 25.mp3
+     Original: Voice 25.mp3
+     Size: 42.0 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2025.mp3
+     ------------------------------------------------------------
+  24. Voice 26.mp3
+     Original: Voice 26.mp3
+     Size: 40.5 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2026.mp3
+     ------------------------------------------------------------
+  25. Voice 27.mp3
+     Original: Voice 27.mp3
+     Size: 35.5 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2027.mp3
+     ------------------------------------------------------------
+  26. Voice 28.mp3
+     Original: Voice 28.mp3
+     Size: 39.5 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2028.mp3
+     ------------------------------------------------------------
+  27. Voice 29.mp3
+     Original: Voice 29.mp3
+     Size: 40.6 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2029.mp3
+     ------------------------------------------------------------
+  28. Voice 3.mp3
+     Original: Voice 3.mp3
+     Size: 17.7 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%203.mp3
+     ------------------------------------------------------------
+  29. Voice 30.mp3
+     Original: Voice 30.mp3
+     Size: 39.0 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2030.mp3
+     ------------------------------------------------------------
+  30. Voice 31.mp3
+     Original: Voice 31.mp3
+     Size: 30.7 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2031.mp3
+     ------------------------------------------------------------
+  31. Voice 32.mp3
+     Original: Voice 32.mp3
+     Size: 29.1 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2032.mp3
+     ------------------------------------------------------------
+  32. Voice 33.mp3
+     Original: Voice 33.mp3
+     Size: 34.9 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2033.mp3
+     ------------------------------------------------------------
+  33. Voice 34.mp3
+     Original: Voice 34.mp3
+     Size: 36.6 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2034.mp3
+     ------------------------------------------------------------
+  34. Voice 35.mp3
+     Original: Voice 35.mp3
+     Size: 33.3 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2035.mp3
+     ------------------------------------------------------------
+  35. Voice 36.mp3
+     Original: Voice 36.mp3
+     Size: 41.9 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2036.mp3
+     ------------------------------------------------------------
+  36. Voice 37.mp3
+     Original: Voice 37.mp3
+     Size: 36.6 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2037.mp3
+     ------------------------------------------------------------
+  37. Voice 38.mp3
+     Original: Voice 38.mp3
+     Size: 36.6 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2038.mp3
+     ------------------------------------------------------------
+  38. Voice 39.mp3
+     Original: Voice 39.mp3
+     Size: 35.8 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2039.mp3
+     ------------------------------------------------------------
+  39. Voice 4.mp3
+     Original: Voice 4.mp3
+     Size: 41.1 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%204.mp3
+     ------------------------------------------------------------
+  40. Voice 40.mp3
+     Original: Voice 40.mp3
+     Size: 33.7 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2040.mp3
+     ------------------------------------------------------------
+  41. Voice 42.mp3
+     Original: Voice 42.mp3
+     Size: 37.4 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2042.mp3
+     ------------------------------------------------------------
+  42. Voice 43.mp3
+     Original: Voice 43.mp3
+     Size: 26.0 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2043.mp3
+     ------------------------------------------------------------
+  43. Voice 44.mp3
+     Original: Voice 44.mp3
+     Size: 33.3 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2044.mp3
+     ------------------------------------------------------------
+  44. Voice 45.mp3
+     Original: Voice 45.mp3
+     Size: 30.0 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2045.mp3
+     ------------------------------------------------------------
+  45. Voice 46.mp3
+     Original: Voice 46.mp3
+     Size: 37.8 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2046.mp3
+     ------------------------------------------------------------
+  46. Voice 47.mp3
+     Original: Voice 47.mp3
+     Size: 33.7 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2047.mp3
+     ------------------------------------------------------------
+  47. Voice 48.mp3
+     Original: Voice 48.mp3
+     Size: 31.3 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2048.mp3
+     ------------------------------------------------------------
+  48. Voice 49.mp3
+     Original: Voice 49.mp3
+     Size: 31.7 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2049.mp3
+     ------------------------------------------------------------
+  49. Voice 5.mp3
+     Original: Voice 5.mp3
+     Size: 26.1 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%205.mp3
+     ------------------------------------------------------------
+  50. Voice 50.mp3
+     Original: Voice 50.mp3
+     Size: 17.3 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2050.mp3
+     ------------------------------------------------------------
+  51. Voice 51.mp3
+     Original: Voice 51.mp3
+     Size: 20.9 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2051.mp3
+     ------------------------------------------------------------
+  52. Voice 52.mp3
+     Original: Voice 52.mp3
+     Size: 22.4 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2052.mp3
+     ------------------------------------------------------------
+  53. Voice 53.mp3
+     Original: Voice 53.mp3
+     Size: 21.6 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2053.mp3
+     ------------------------------------------------------------
+  54. Voice 54.mp3
+     Original: Voice 54.mp3
+     Size: 24.5 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2054.mp3
+     ------------------------------------------------------------
+  55. Voice 55.mp3
+     Original: Voice 55.mp3
+     Size: 24.6 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2055.mp3
+     ------------------------------------------------------------
+  56. Voice 56.mp3
+     Original: Voice 56.mp3
+     Size: 20.8 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2056.mp3
+     ------------------------------------------------------------
+  57. Voice 57.mp3
+     Original: Voice 57.mp3
+     Size: 21.0 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2057.mp3
+     ------------------------------------------------------------
+  58. Voice 58.mp3
+     Original: Voice 58.mp3
+     Size: 23.0 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2058.mp3
+     ------------------------------------------------------------
+  59. Voice 59.mp3
+     Original: Voice 59.mp3
+     Size: 20.7 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2059.mp3
+     ------------------------------------------------------------
+  60. Voice 6.mp3
+     Original: Voice 6.mp3
+     Size: 18.5 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%206.mp3
+     ------------------------------------------------------------
+  61. Voice 60.mp3
+     Original: Voice 60.mp3
+     Size: 23.6 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2060.mp3
+     ------------------------------------------------------------
+  62. Voice 61.mp3
+     Original: Voice 61.mp3
+     Size: 21.1 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2061.mp3
+     ------------------------------------------------------------
+  63. Voice 62.mp3
+     Original: Voice 62.mp3
+     Size: 23.9 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2062.mp3
+     ------------------------------------------------------------
+  64. Voice 63.mp3
+     Original: Voice 63.mp3
+     Size: 20.3 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2063.mp3
+     ------------------------------------------------------------
+  65. Voice 64.mp3
+     Original: Voice 64.mp3
+     Size: 24.4 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2064.mp3
+     ------------------------------------------------------------
+  66. Voice 65.mp3
+     Original: Voice 65.mp3
+     Size: 21.9 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2065.mp3
+     ------------------------------------------------------------
+  67. Voice 66.mp3
+     Original: Voice 66.mp3
+     Size: 30.4 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2066.mp3
+     ------------------------------------------------------------
+  68. Voice 67.mp3
+     Original: Voice 67.mp3
+     Size: 20.6 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2067.mp3
+     ------------------------------------------------------------
+  69. Voice 68.mp3
+     Original: Voice 68.mp3
+     Size: 22.8 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2068.mp3
+     ------------------------------------------------------------
+  70. Voice 69.mp3
+     Original: Voice 69.mp3
+     Size: 20.2 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2069.mp3
+     ------------------------------------------------------------
+  71. Voice 7.mp3
+     Original: Voice 7.mp3
+     Size: 14.2 KB (0.01 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%207.mp3
+     ------------------------------------------------------------
+  72. Voice 70.mp3
+     Original: Voice 70.mp3
+     Size: 21.5 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2070.mp3
+     ------------------------------------------------------------
+  73. Voice 71.mp3
+     Original: Voice 71.mp3
+     Size: 22.2 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2071.mp3
+     ------------------------------------------------------------
+  74. Voice 72.mp3
+     Original: Voice 72.mp3
+     Size: 22.8 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2072.mp3
+     ------------------------------------------------------------
+  75. Voice 73.mp3
+     Original: Voice 73.mp3
+     Size: 23.3 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2073.mp3
+     ------------------------------------------------------------
+  76. Voice 74.mp3
+     Original: Voice 74.mp3
+     Size: 34.3 KB (0.03 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2074.mp3
+     ------------------------------------------------------------
+  77. Voice 75.mp3
+     Original: Voice 75.mp3
+     Size: 38.6 KB (0.04 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%2075.mp3
+     ------------------------------------------------------------
+  78. Voice 8.mp3
+     Original: Voice 8.mp3
+     Size: 16.9 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%208.mp3
+     ------------------------------------------------------------
+  79. Voice 9.mp3
+     Original: Voice 9.mp3
+     Size: 18.5 KB (0.02 MB)
+     URL: https://dallolbingohouse.com/static/game/audio/Voice%209.mp3
+     ------------------------------------------------------------
+
+================================================================================
+SUMMARY
+================================================================================
+Total Files Downloaded: 79
+Total Size: 3,630.2 KB (3.55 MB)
+Average File Size: 46.0 KB
+================================================================================

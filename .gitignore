@@ -1,0 +1,8 @@
+config.php
+.env
+node_modules/
+*.log
+.vscode/
+.gemini/
+.agent/
+tmp/
