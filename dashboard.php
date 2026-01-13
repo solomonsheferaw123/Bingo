@@ -37,22 +37,22 @@ $recentGames = $stmt->fetchAll();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="/static/game/css/base.css">
-    <link rel="stylesheet" href="/static/account/css/styles2.css">
-    <link rel="stylesheet" href="/boxicons.min.css">
+    <link rel="stylesheet" href="static/game/css/base.css">
+    <link rel="stylesheet" href="static/account/css/styles2.css">
+    <link rel="stylesheet" href="boxicons.min.css">
     <title>Dashboard - Dallol Bingo</title>
 </head>
 <body class="dark">
     <section id="sidebar" class="hide">
-        <a href="/index.php" class="brand">
-            <img src="/static/game/icon/logo.png" style="width: 40px; margin-left: 10px; margin-right: 10px;" alt="">
+        <a href="index.php" class="brand">
+            <img src="static/game/icon/logo.png" style="width: 40px; margin-left: 10px; margin-right: 10px;" alt="">
             <span class="text">Dallol</span>
         </a>
         <ul class="side-menu top">
-            <li class="active"><a href="/dashboard.php"><i class='bx bxs-dashboard'></i><span class="text">Dashboard</span></a></li>
-            <li><a href="/index.php"><i class='bx bxs-right-arrow'></i><span class="text">Play Bingo</span></a></li>
-            <li><a href="/settings.php"><i class='bx bxs-cog'></i><span class="text">Settings</span></a></li>
-            <li><a href="/logout.php" class="logout"><i class='bx bxs-log-out-circle'></i><span class="text">Logout</span></a></li>
+            <li class="active"><a href="dashboard.php"><i class='bx bxs-dashboard'></i><span class="text">Dashboard</span></a></li>
+            <li><a href="index.php"><i class='bx bxs-right-arrow'></i><span class="text">Play Bingo</span></a></li>
+            <li><a href="settings.php"><i class='bx bxs-cog'></i><span class="text">Settings</span></a></li>
+            <li><a href="logout.php" class="logout"><i class='bx bxs-log-out-circle'></i><span class="text">Logout</span></a></li>
         </ul>
     </section>
 

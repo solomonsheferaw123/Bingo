@@ -24,8 +24,8 @@ if ($game_id) {
     <link rel="stylesheet" href="boxicons.min.css">
     <title>Home</title>
     <!-- Add your CSS files here -->
-    <link rel="stylesheet" href="/static/game/css/base.css">
-    <link rel="stylesheet" href="/static/game/css/styles.css">
+    <link rel="stylesheet" href="static/game/css/base.css">
+    <link rel="stylesheet" href="static/game/css/styles.css">
     <!-- Add your JavaScript files here -->
 </head>
 <body class="dark">
@@ -37,13 +37,13 @@ if ($game_id) {
     </a>
     <ul class="side-menu top">
         <li id="dashboard">
-            <a href="/dashboard.php">
+            <a href="dashboard.php">
                 <i class='bx bxs-dashboard' ></i>
                 <span class="text">Dashboard</span>
             </a>
         </li>
         <li id="index">
-            <a href="/index.php">
+            <a href="index.php">
                 <i class='bx bxs-right-arrow' ></i>
                 <span class="text">Play Bingo</span>
             </a>
@@ -63,13 +63,13 @@ if ($game_id) {
     </ul>
     <ul class="side-menu">
         <li id="setting">
-            <a href="/settings.php">
+            <a href="settings.php">
                 <i class='bx bxs-cog' ></i>
                 <span class="text">Settings</span>
             </a>
         </li>
         <li>
-            <a href="/logout.php" class="logout">
+            <a href="logout.php" class="logout">
                 <i class='bx bxs-log-out-circle' ></i>
                 <span class="text">Logout</span>
             </a>
@@ -171,9 +171,9 @@ if ($game_id) {
                         <button id="call-next"   style="display: none;"  class="cutm-btn">CALL NEXT</button>
                         
                         <button id="finsh"   style="display: none;"  class="cutm-btn">FINISH</button>
-                        <a id="start-new-game" href="/new_game.php"  class="cutm-btn">START NEW GAME</a>
+                        <a id="start-new-game" href="new_game.php"  class="cutm-btn">START NEW GAME</a>
                         <audio id="audioPlayer" hidden>
-                            <source src="/static/game/audio/shuffle.mp3" type="audio/mpeg">
+                            <source src="static/game/audio/shuffle.mp3" type="audio/mpeg">
                             Your browser does not support the audio element.
                         </audio>
                         <button id="shuffle" class="cutm-btn">SHUFFLE</button>
@@ -194,7 +194,7 @@ if ($game_id) {
                         <div>WIN MONEY</div>
                         <div id="win_amount_display"><?php echo $game_data ? number_format($game_data['win_amount'], 2) . ' Birr' : '0.00 Birr'; ?></div>
                     </div>
-                    <img src="/static/game/icon/money.png" alt="">
+                    <img src="static/game/icon/money.png" alt="">
                 </div>
             </div>
         </div>
@@ -250,8 +250,8 @@ if ($game_id) {
         <p>&copy; 2024 Dallol Technologies. All rights reserved.</p>
     </footer>    
     
-<script src="/static/game/js/jquery-3.7.1.min.js"></script>
-<script src="/static/game/js/script_v2.js"></script>
+<script src="static/game/js/jquery-3.7.1.min.js"></script>
+<script src="static/game/js/script_v2.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
 
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"82127c80251a413996afd2b92f399aa5","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>

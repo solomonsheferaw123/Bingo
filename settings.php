@@ -84,7 +84,7 @@ $me = $stmt->fetch();
         </main>
     </section>
     <script src="static/account/js/script.js"></script>
-    <script src="/static/game/js/jquery-3.7.1.min.js"></script>
+    <script src="static/game/js/jquery-3.7.1.min.js"></script>
     <script>
         document.getElementById('show_game_info').addEventListener('change', function() {
             document.getElementById('display-status').innerText = this.checked ? 'ON' : 'OFF';
