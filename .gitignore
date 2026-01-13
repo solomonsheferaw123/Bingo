@@ -1,4 +1,4 @@
-config.php
+# config.php moved to environment variables
 .env
 node_modules/
 *.log

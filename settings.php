@@ -62,21 +62,21 @@ $me = $stmt->fetch();
                                 <div class="fs-14"><span class="c-grey">Balance:</span> <span><?php echo number_format($me['balance'], 2); ?></span></div>
                                 <div class="fs-14">
                                     <span class="c-grey">Jackpot %:</span>
-                                    <input type="number" value="0.00" class="editable-input"> %
+                                    <input type="number" step="0.01" value="<?php echo number_format($me['jackpot_percentage'], 2); ?>" class="editable-input" id="jackpot_percentage"> %
                                 </div>
                                 <div class="fs-14">
                                     <span class="c-grey">Jackpot Amount:</span>
-                                    <input type="number" value="0.00" class="editable-input">
+                                    <input type="number" step="0.01" value="<?php echo number_format($me['jackpot_amount'], 2); ?>" class="editable-input" id="jackpot_amount">
                                 </div>
                             </div>
                             <div class="info-row p-20 d-flex align-center f-wrap">
                                 <h4 class="c-grey fs-15 m-0 w-full">Game Information</h4>
-                                <div class="fs-14"><span class="c-grey">Display:</span> <span>OFF</span></div>
+                                <div class="fs-14"><span class="c-grey">Display:</span> <span id="display-status"><?php echo $me['show_game_info'] ? 'ON' : 'OFF'; ?></span></div>
                                 <div class="fs-14">
-                                    <label><input class="toggle-checkbox" type="checkbox"><div class="toggle-switch relative"></div></label>
+                                    <label><input class="toggle-checkbox" type="checkbox" id="show_game_info" <?php echo $me['show_game_info'] ? 'checked' : ''; ?>><div class="toggle-switch relative"></div></label>
                                 </div>
                             </div>
-                            <button class="save-btn">Save Changes</button>
+                            <button class="save-btn" onclick="saveSettings()">Save Changes</button>
                         </div>
                     </div>
                 </div>
@@ -84,5 +84,45 @@ $me = $stmt->fetch();
         </main>
     </section>
     <script src="static/account/js/script.js"></script>
+    <script src="/static/game/js/jquery-3.7.1.min.js"></script>
+    <script>
+        document.getElementById('show_game_info').addEventListener('change', function() {
+            document.getElementById('display-status').innerText = this.checked ? 'ON' : 'OFF';
+        });
+
+        function saveSettings() {
+            const jackpot_percentage = document.getElementById('jackpot_percentage').value;
+            const jackpot_amount = document.getElementById('jackpot_amount').value;
+            const show_game_info = document.getElementById('show_game_info').checked ? 1 : 0;
+
+            const saveBtn = document.querySelector('.save-btn');
+            saveBtn.innerText = 'Saving...';
+            saveBtn.disabled = true;
+
+            $.ajax({
+                url: 'api/update_settings.php',
+                type: 'POST',
+                data: {
+                    show_game_info: show_game_info,
+                    jackpot_percentage: jackpot_percentage,
+                    jackpot_amount: jackpot_amount
+                },
+                success: function(response) {
+                    if (response.success) {
+                        alert('Settings saved successfully!');
+                    } else {
+                        alert('Error: ' + response.message);
+                    }
+                },
+                error: function() {
+                    alert('An error occurred while saving settings.');
+                },
+                complete: function() {
+                    saveBtn.innerText = 'Save Changes';
+                    saveBtn.disabled = false;
+                }
+            });
+        }
+    </script>
 </body>
 </html>

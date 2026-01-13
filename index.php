@@ -101,7 +101,7 @@ if ($game_id) {
     <main>
 
         <div class="bingo-container" id="bingo-container" style="display: <?php echo $game_data ? 'block' : 'none'; ?>;">
-            <div class="bingo-stat">
+            <div class="bingo-stat" style="visibility: <?php echo $me['show_game_info'] ? 'visible' : 'hidden'; ?>;">
                 <h3 class="text-gradient big">BINGO</h3>
                 <div class="stat-box">
                     GAME <span id="game-id-display"><?php echo $game_data ? '#' . $game_data['id'] : ''; ?></span>
